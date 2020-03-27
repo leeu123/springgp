@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/gpspring/web/controll/loginController.java=UTF-8
+encoding//src/main/java/com/gpspring/web/controll/masjibController.java=UTF-8
+encoding//src/main/java/com/gpspring/web/controll/partyController.java=UTF-8
+encoding//src/main/java/com/gpspring/web/repository/MasjipDAO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/repository/MembershipDAO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/BoardDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/BusinessDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/MembershipDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/PartyApplyDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/PartyDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/PartyreviewDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/ResdatDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/ReservationDTO.java=UTF-8
+encoding//src/main/java/com/gpspring/web/vo/RestaurantDTO.java=UTF-8

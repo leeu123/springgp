@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<typeAliases>
+		<typeAlias type="com.gpspring.web.vo.PartyDTO" alias="pt" />
+		<typeAlias type="com.gpspring.web.vo.PartyreviewDTO" alias="pr" />
+		<typeAlias type="com.gpspring.web.vo.PartyApplyDTO" alias="ap" />
+		<typeAlias type="com.gpspring.web.vo.ResdatDTO" alias="rs" />
+		<typeAlias type="com.gpspring.web.vo.RestaurantDTO" alias="ad" />
+		<typeAlias type="com.gpspring.web.vo.BoardDTO" alias="rb" />
+		<typeAlias type="com.gpspring.web.vo.MembershipDTO" alias="mb" /> 
+		<typeAlias type="com.gpspring.web.vo.ReservationDTO" alias="re" />
+		<typeAlias type="com.gpspring.web.vo.QnADTO" alias="qn" />  <!--  별칭변경     -->
+	</typeAliases>
+
+	<mappers>
+		<mapper resource="mybatis/mapper/mapper.xml" />
+	</mappers>
+
+</configuration>
